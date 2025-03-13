@@ -1,0 +1,27 @@
+/** Gloabl **/
+:root { 
+    --primary-color: #3c32a3;
+    /* --secondary-color: green; */
+    --light: #fff;
+    --dark: #1d1d1d;
+}
+
+body { background: var(--light); }
+
+/** Containers **/
+.site-wrapper { width: 100%; margin: auto; }
+
+
+/** Images **/
+.fav-icon { width: 16px; height: auto; }
+img { max-width: 100%; }
+
+
+/** Navbar **/
+.logo { width: 120px; }
+.header { display: flex; justify-content: center; padding: 42px; align-items: center; width: 1180px; }
+
+.acc-icon { font-size: 32px; height: auto; color: var(--primary-color); }
+
+/** Form Filter **/
+.filter--fields { display: flex; justify-content: space-between; gap: 20px; }

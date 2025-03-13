@@ -1,0 +1,26 @@
+Estate Project Documentation
+
+Site Map
+- Home
+- Account profile
+- Sign up and sign in modal
+- Filters
+- Search results page
+
+Account Funcationality
+- Login, Sign up, Account 
+
+Listing Funcationality
+- Search Funcationality, results page 
+- Categories
+- Listings 
+
+Design
+- Images
+- Text
+- Icons
+- Favicon
+
+
+
+
